@@ -1,4 +1,4 @@
-package httpmock
+package http
 
 import (
 	"bytes"
